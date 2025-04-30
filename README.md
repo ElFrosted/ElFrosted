@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be92e62c-686e-456d-903e-f7b65be109b7)# 👋 ¡Hey! I'm Sebastián
+# 👋 ¡Hey! I'm Sebastián
 
 I’m a developer in training, passionate about backend development with Node.js, TypeScript, and NestJS. Currently learning how to build modular RESTful APIs and follow professional development best practices.
 
