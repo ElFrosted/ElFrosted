@@ -1,19 +1,19 @@
-# 👋 ¡Hola! Soy Sebastián
+![image](https://github.com/user-attachments/assets/be92e62c-686e-456d-903e-f7b65be109b7)# 👋 ¡Hey! I'm Sebastián
 
-Soy un desarrollador en formación apasionado por el backend con **Node.js**, **TypeScript** y **NestJS**. Actualmente aprendiendo a construir APIs, modulares y buenas prácticas del desarrollo profesional.
+I’m a developer in training, passionate about backend development with Node.js, TypeScript, and NestJS. Currently learning how to build modular RESTful APIs and follow professional development best practices.
 
 ---
 
-## 🧠 Actualmente aprendiendo
+## 🧠 Learning
 
-- 🌱 Node.js (con TypeScript)
+- 🌱 Node.js (TypeScript)
 - 🚀 NestJS
-- 🧪 Testing con Jest
-- 🐘 PostgreSQL y TypeORM
+- 🧪 Testing with Jest
+- 🐘 MongoDB
 
 ---
 
-## ⚒️ Herramientas que uso
+## ⚒️ Tools
 
 - VS Code
 - Git & GitHub
@@ -22,11 +22,25 @@ Soy un desarrollador en formación apasionado por el backend con **Node.js**, **
 
 ---
 
-## 📫 Conectemos
+## 📫 Let's touch
 
 - Email: juansebastianlemos45@gmail.com
 - LinkedIn: [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
 
 ---
 
-_Gracias por visitar mi perfil 🚀_
+### 💻 Tech Stack
+
+<!-- Logos sin texto -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+_Thanks for visit my profile 🚀_
