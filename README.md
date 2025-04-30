@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sebastián
 
-Soy un desarrollador en formación apasionado por el backend con **Node.js**, **TypeScript** y **NestJS**. Me encanta construir APIs limpias, modulares y seguras mientras aprendo buenas prácticas del desarrollo profesional.
+Soy un desarrollador en formación apasionado por el backend con **Node.js**, **TypeScript** y **NestJS**. Actualmente aprendiendo a construir APIs, modulares y buenas prácticas del desarrollo profesional.
 
 ---
 
@@ -17,23 +17,15 @@ Soy un desarrollador en formación apasionado por el backend con **Node.js**, **
 
 - VS Code
 - Git & GitHub
-- Insomnia / Postman
+- Postman
 - Linux (Arch ❤️)
-
----
-
-## 📂 Algunos proyectos
-
-- 🔧 [API REST con NestJS](https://github.com/tu-usuario/nombre-del-repo)
-- 🧪 [Pruebas con Jest](https://github.com/tu-usuario/nombre-del-repo)
-- 📦 [CLI tool en TypeScript](https://github.com/tu-usuario/nombre-del-repo)
 
 ---
 
 ## 📫 Conectemos
 
-- Email: tuemail@ejemplo.com
-- LinkedIn: [TuNombre](https://linkedin.com/in/tuusuario)
+- Email: juansebastianlemos45@gmail.com
+- LinkedIn: [Juan Sebastian Lemos Lizcano](www.linkedin.com/in/sebastian-lemos)
 
 ---
 
