@@ -25,7 +25,7 @@ Soy un desarrollador en formación apasionado por el backend con **Node.js**, **
 ## 📫 Conectemos
 
 - Email: juansebastianlemos45@gmail.com
-- LinkedIn: [Juan Sebastian Lemos Lizcano](www.linkedin.com/in/sebastian-lemos)
+- LinkedIn: [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
 
 ---
 
