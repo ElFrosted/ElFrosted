@@ -14,6 +14,10 @@ I’m a developer in training, passionate about backend development with NodeJs,
 
 • ![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) juansebastianlemos45@gmail.com ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
 
+## 📊 Stats
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElFrosted&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+##
 
 _Thanks for visit my profile 🚀_
