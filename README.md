@@ -26,7 +26,3 @@ I’m a developer in training, passionate about backend development with <img sr
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="16" /> Email: juansebastianlemos45@gmail.com
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" /> LinkedIn: [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
-
----
-
-_Thanks for visit my profile 🚀_
