@@ -7,7 +7,7 @@ I’m a developer in training, passionate about backend development with Node.js
 ## 🧠 Learning
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" /> Node.js (TypeScript)
-- 🚀 NestJS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" /> NestJS
 - 🧪 Testing with Jest
 - 🐘 MongoDB
 
