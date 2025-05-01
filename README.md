@@ -24,8 +24,8 @@ I’m a developer in training, passionate about backend development with <img sr
 
 ## 📫 Let's touch
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="16" /> Email: juansebastianlemos45@gmail.com
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" /> LinkedIn: [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="16" /> Email: juansebastianlemos45@gmail.com
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="16" /> LinkedIn: [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
 
 ---
 
