@@ -7,7 +7,7 @@ I’m a developer in training, passionate about backend development with <img sr
 ## 🧠 Learning
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" /> Node.js (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" />)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg" width="16" /> NestJS
+- <img src="https://raw.githubusercontent.com/nestjs/nest/master/images/logo-small.svg" width="16" /> NestJS
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="16" /> Testing with Jest
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="16" /> MongoDB
 
