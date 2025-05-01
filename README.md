@@ -8,11 +8,11 @@ I’m a developer in training, passionate about backend development with NodeJs,
 
 ## ⚒️ Tools
 
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23232323.svg?style=for-the-badge&logo=linux&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%230079C1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23232323.svg?style=for-the-badge&logo=linux&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%230079C1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ## 📫 Let's touch
 
-• <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="16" /> Email: juansebastianlemos45@gmail.com    • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" /> LinkedIn: [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
+• ![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) juansebastianlemos45@gmail.com ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElFrosted&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
