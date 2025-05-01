@@ -1,6 +1,6 @@
 # 👋 ¡Hey! I'm Sebastián
 
-I’m a developer in training, passionate about backend development with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" />, and <img src="https://raw.githubusercontent.com/SVG-Logos/nestjs-logo/master/nestjs-white.svg" width="16" />. Currently learning how to build modular RESTful APIs and follow professional development best practices.
+I’m a developer in training, passionate about backend development with NodeJs, Typescript, and NestJS. Currently learning how to build modular RESTful APIs and follow professional development best practices.
 
 ---
 
@@ -21,5 +21,7 @@ I’m a developer in training, passionate about backend development with <img sr
 • <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="16" /> Email: juansebastianlemos45@gmail.com    • <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" /> LinkedIn: [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=ElFrosted&icon=0&color=0)](https://visitcount.itsvg.in)
 
 _Thanks for visit my profile 🚀_
