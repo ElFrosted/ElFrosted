@@ -8,7 +8,7 @@ I’m a developer in training, passionate about backend development with NodeJs,
 
 ## ⚒️ Tools
 
-• <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" /> VS Code    • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" /> Git & <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" width="16" /> GitHub    • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="16" /> Postman    • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16" /> Linux (Arch <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="16" />)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23232323.svg?style=for-the-badge&logo=linux&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%230079C1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ## 📫 Let's touch
 
