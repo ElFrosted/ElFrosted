@@ -1,13 +1,13 @@
 # 👋 ¡Hey! I'm Sebastián
 
-I’m a developer in training, passionate about backend development with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" />, and <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" style="filter: invert(100%) brightness(200%);" />. Currently learning how to build modular RESTful APIs and follow professional development best practices.
+I’m a developer in training, passionate about backend development with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" />, and <img src="https://raw.githubusercontent.com/SVG-Logos/nestjs-logo/master/nestjs-white.svg" width="16" />. Currently learning how to build modular RESTful APIs and follow professional development best practices.
 
 ---
 
 ## 🧠 Learning
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" /> Node.js (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" />)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16" style="filter: invert(100%) brightness(200%);" /> NestJS
+- <img src="https://raw.githubusercontent.com/SVG-Logos/nestjs-logo/master/nestjs-white.svg" width="16" /> NestJS
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="16" /> Testing with Jest
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="16" /> MongoDB
 
