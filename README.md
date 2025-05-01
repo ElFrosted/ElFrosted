@@ -7,7 +7,7 @@ I’m a developer in training, passionate about backend development with <img sr
 ## 🧠 Learning
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" /> Node.js (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" />)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg" width="40" style="filter: invert(21%) sepia(98%) saturate(7487%) hue-rotate(338deg) brightness(88%) contrast(107%);" /> NestJS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="16" /> NestJS
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="16" /> Testing with Jest
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="16" /> MongoDB
 
@@ -15,31 +15,17 @@ I’m a developer in training, passionate about backend development with <img sr
 
 ## ⚒️ Tools
 
-- VS Code
-- Git & GitHub
-- Postman
-- Linux (Arch ❤️)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" /> VS Code
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" /> Git & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" /> GitHub
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="16" /> Postman
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16" /> Linux (Arch <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="16" />)
 
 ---
 
 ## 📫 Let's touch
 
-- Email: juansebastianlemos45@gmail.com
-- LinkedIn: [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
-
----
-
-### 💻 Tech Stack
-
-<!-- Logos sin texto -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="16" /> Email: juansebastianlemos45@gmail.com
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" /> LinkedIn: [Juan Sebastian Lemos Lizcano](https://www.linkedin.com/in/sebastian-lemos/)
 
 ---
 
