@@ -8,7 +8,7 @@ I’m a developer in training, passionate about backend development with NodeJs,
 
 ## ⚒️ Tools
 
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23232323.svg?style=for-the-badge&logo=linux&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%230079C1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23232323.svg?style=for-the-badge&logo=linux&logoColor=white) ![Arch](https://img.shields.io/badge/Arch_Linux-%230079C1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ## 📫 Let's touch
 
